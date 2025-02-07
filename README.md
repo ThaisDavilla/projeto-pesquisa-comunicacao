@@ -72,6 +72,10 @@ Este projeto demonstrou a eficácia do WhatsApp como método de comunicação pr
 - **Base de Dados**: Arquivo Excel com os dados da pesquisa.
 
 ## Relatório
+
+
+https://github.com/user-attachments/assets/77451772-7b21-4b9e-8846-c5f35044f29a
+
 ![BI-relatorio](https://github.com/user-attachments/assets/ace337d5-00d0-4ff7-8f25-b84f75b6000a)
 
 
